@@ -1,0 +1,43 @@
+---
+title: "About ..."
+image: figs/4ms_looking_rainbow.jpg
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/momenezes
+    - icon: github
+      text: Github
+      href: https://github.com/momenezes
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mariomenezes/
+    - icon: info-circle
+      text: ORCID
+      href: https://orcid.org/0000-0003-0263-3541
+---
+
+### Personal
+
+I'm a christian, member of the Perdizes Baptist Church in São Paulo, Brazil, a vibrant community, whose mission is to transform lives to serve the King Jesus Christ!
+
+### Experience 
+
+I'm a physicist, working at the Instituto de Pesquisas Energéticas e Nucleares, IPEN/CNEN. My main research fields are Scientific Computing, eScience, Machine Learning, Artificial Intelligence and Data Science, all applied to Nuclear, Health and related fields.
+
+I'm also a teacher at Mackenzie Presbyterian University; my current classes on college are: Data Analysis, Parallel Computing, Distributed Computing and Visual Computing for Computer Science course and Distributed Infrastructure for Information Systems course. 
+
+
+
+### Education
+
+##### **University of São Paulo - USP**
+
+Doctorate in Nuclear Technology | 2000
+
+##### **Pontifícia Universidade Católica de São Paulo - PUC-SP | São Paulo, SP, Brazil**
+
+Bachelor in Physics | 1989
+
+
