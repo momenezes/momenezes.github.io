@@ -2,5 +2,8 @@
 title: "M.Menezes"
 ---
 
-
 Here we go!
+
+## Quick links
+
+I've written some [articles](https://momenezes.github.io/tutorials/ "Some tips, tutorials and other stuffs") about [R](https://cran.r-project.org/){target="_blank"}, some tips about statistics, and related stuff.
